@@ -1,0 +1,2 @@
+# Focus-Study-Assistant
+This web app was created with the intent to assist my time management and task prioritization. Using only HTML, CSS, JavaScript this product will evolve as I continue learning the basics of Web App Development. 
